@@ -10,7 +10,7 @@ from google.genai import types
 # -------------------------------------------------------------------
 # 1. Configuration & Client Initialization
 # -------------------------------------------------------------------
-GEMINI_API_KEY = "AQ.Ab8RN6IdXvJhnz6sJBQ6lIBEycDqx5gQmzn-afXzj_Jptwz_VA"
+GEMINI_API_KEY = ""
 if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY environment variable missing.")
 
